@@ -9,7 +9,7 @@ class First extends Component {
         paragraph:
           "we strive to understand our ients bussiness goals first then all decisions are made with those",
         some: "learn more",
-        photo:"https://images.pexels.com/photos/3680219/pexels-photo-3680219.jpeg?cs=srgb&dl=pexels-lukas-rodriguez-3680219.jpg&fm=jpg",
+        photo:"https://imgggggggages.pexels.com/photos/3680219/pexels-photo-3680219.jpeg?cs=srgb&dl=pexels-lukas-rodriguez-3680219.jpg&fm=jpg",
       },
       {
         title: "Pixel-Perfect Drsign",
