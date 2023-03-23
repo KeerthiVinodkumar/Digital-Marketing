@@ -5,7 +5,7 @@ class First extends Component {
     state={
         collection:[
             {
-                title: "Great support",
+                title: "Great supportnjnmnmnnmnn",
         paragraph:
           "we strive to understand our ients bussiness goals first then all decisions are made with those",
         some: "learn more",
