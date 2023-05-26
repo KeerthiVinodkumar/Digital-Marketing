@@ -364,7 +364,7 @@ body {
 .social-Media{
   display: flex;
   justify-content: space-around;
-  position: absolute;
+  position: absolute; 
   right: 20px;
 
 }

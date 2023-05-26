@@ -10,7 +10,7 @@ import Last from './Last'
 import { Swiper, SwiperSlide } from 'swiper/react';
 
 export default class App extends Component  {
-  render() {
+  render() { 
     return (
       <div>
          <Header/>

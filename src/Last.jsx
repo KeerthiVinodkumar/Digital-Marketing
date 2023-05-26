@@ -10,7 +10,7 @@ const Carosuel = () => {
     {
       photo:
         "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?cs=srgb&dl=pexels-italo-melo-2379004.jpg&fm=jpg",
-      name: "appu",
+      name: "appu", 
       description:
         "As a digital market agency, we strive to understand our client's business goals first then all decisions are made with those ",
 

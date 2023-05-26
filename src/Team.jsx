@@ -16,7 +16,7 @@ class Team extends Component {
                 description:"our clients bussiness goals first then all",
                 photo:"https://img.freepik.com/premium-photo/perfect-smile-handsome-guy-portrait-facial-hair-skin-care-concept-handsome-face-handsome-man-unshaven-face-stylish-hair-caucasian-man-urban-background-bearded-man-casual-style_474717-5574.jpg", 
             },
-            {
+            { 
                 name:"Maher Zain",
                 role:"Developer",
                 description:"our clients bussiness goals first then all",

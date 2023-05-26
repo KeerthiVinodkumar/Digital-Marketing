@@ -27,7 +27,7 @@ class First extends Component {
             }
         ]
     }
-    render() {
+    render() { 
         return (
             <div className='main'>
                      <div className="market">
