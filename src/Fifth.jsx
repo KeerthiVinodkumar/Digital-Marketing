@@ -13,7 +13,7 @@ class Fifth extends Component {
             <div className="card-b">
               <h5 className="card-tit"><h1>{this.state.collection.title}</h1></h5>
               <p className="card-te">{this.state.collection. paragraph}</p>
-            </div>
+            </div> 
           </div>
           </div>
         );

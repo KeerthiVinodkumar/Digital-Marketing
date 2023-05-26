@@ -20,7 +20,7 @@ class Brand extends Component {
             <iframe className="youvi" src="https://www.youtube.com/embed/KJe7yDTEDTU?controls=0" tittle="youtube video" allowFullScreen></iframe>
             <iframe className="youvi" src="https://www.youtube.com/embed/dJQn4DqzMVQ?controls=0" tittle="youtube video" allowFullScreen></iframe>
           </div>
-        </div>
+        </div> 
       </div>
         );
     }

@@ -32,7 +32,7 @@ class First extends Component {
             <div className='main'>
                      <div className="market">
           <h1>
-            Marketing <br></br>& Design
+            Marketing <br></br>& Design 
           </h1>
           <p>
            As a Digital marketing agency.we strive <br></br> to understand our
